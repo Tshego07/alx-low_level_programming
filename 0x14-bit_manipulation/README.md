@@ -1,2 +1,1 @@
-ALX Project 
-C - Bit manipulation
+C - Bit manipulation ALX Project
